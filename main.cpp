@@ -7,5 +7,5 @@ int teaspoons;
 cout << "Enter the number of teaspoons: ";
 cin >> teaspoons;
 int teaspoonsPerTablespoon = 3;
-int teaspoonsPerCup = 16 * teaspoonsPerTablespoons;
+int teaspoonsPerCup = 16 * teaspoonsPerTablespoon;
 }

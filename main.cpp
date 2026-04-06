@@ -12,5 +12,5 @@ int teaspoonsPerQuart = 4 * teaspoonsPerCup;
 int quarts = teaspoons / teaspoonsPerQuart;
 int remaining = teaspoons % teaspoonsPerQuart;
 int cups = remaining / teaspoonsPerCup;
-r
+remaining = remaining 
 }

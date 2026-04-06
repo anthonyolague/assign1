@@ -3,5 +3,6 @@
 using namespace std;
 
 int main() {
-
+int teaspoons;
+cout << "Enter the number of teaspoons: "
 }

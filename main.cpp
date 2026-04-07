@@ -17,5 +17,5 @@ int tablespoons = remaining / teaspoonsPerTablespoon;
 int tsp = remaining % teaspoonsPerTablespoon;
 cout << quarts << " quart(s)" << endl;
 cout << cups << " cup(s)" << endl;
-cout << tablespoons << 
+cout << tablespoons << " tablespoon(s)"
 }
